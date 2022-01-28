@@ -1,2 +1,2 @@
 # web-gelistirme
-Netlifly website
+Netlifly websitesine yüklenmiş deneme bir html web site ekran örneği.
